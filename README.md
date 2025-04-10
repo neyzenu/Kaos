@@ -1,6 +1,6 @@
 # Kaos
 Kaos Teorisi Simülatörü
-Collecting workspace information# Kaos Teorisi Simülatörü
+
 
 Bu proje, kaos teorisinin temel kavramlarını interaktif bir şekilde keşfetmek için tasarlanmış bir Python uygulamasıdır. Kullanıcı arayüzü üzerinden parametre değerlerini değiştirerek kaotik sistemlerin davranışlarını gerçek zamanlı olarak gözlemleyebilirsiniz.
 
